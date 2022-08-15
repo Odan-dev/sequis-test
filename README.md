@@ -1,2 +1,2 @@
 # sequis-test
-Technical Test for Test Engineer
+Sequis Technical Test for Test Engineer

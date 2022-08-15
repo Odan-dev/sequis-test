@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PILIH</name>
+   <tag></tag>
+   <elementGuidId>63dc5f84-3e06-4ce1-a90e-63ebeb195369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modalProv']/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalProv > div.modal-dialog.modal-bottom > div.modal-content > div.modal-body > button.buttom-modal.button-continue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>308a16aa-628c-4873-aa15-68cb82df6999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttom-modal button-continue</value>
+      <webElementGuid>e1570006-58bf-4d63-8f37-1d8f11f992b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            PILIH
+          </value>
+      <webElementGuid>ca5f181f-4bcc-4f8c-ae86-1f9fd7ba9381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalProv&quot;)/div[@class=&quot;modal-dialog modal-bottom&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/button[@class=&quot;buttom-modal button-continue&quot;]</value>
+      <webElementGuid>d8795291-1edd-4db1-bd6a-9d7866fd3824</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalProv']/div/div/div[2]/button</value>
+      <webElementGuid>4844253c-be7b-4d27-b1c6-387a94242c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SULAWESI BARAT'])[1]/following::button[1]</value>
+      <webElementGuid>99bc0d5a-fbfc-459d-ac7e-dc57c8422793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SULAWESI SELATAN'])[1]/following::button[1]</value>
+      <webElementGuid>7f6d8900-17e6-4c2d-a59e-3b101560a5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LANJUTKAN'])[1]/preceding::button[1]</value>
+      <webElementGuid>dfb80c83-6782-4911-b9fa-ce6e5ba41ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Asuransi Jiwa Sequis Life berizin dan diawasi oleh Otoritas Jasa Keuangan'])[1]/preceding::button[2]</value>
+      <webElementGuid>308fe919-ae74-40e0-b5c0-a496fa1d63b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/button</value>
+      <webElementGuid>76f9d046-e8d9-4c8c-b697-2ec099fe5a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+            PILIH
+          ' or . = '
+            PILIH
+          ')]</value>
+      <webElementGuid>c024f0e3-1cf9-4464-990c-aed09972822d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

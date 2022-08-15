@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LANJUTKAN</name>
+   <tag></tag>
+   <elementGuidId>bcfbb7c3-e670-44bf-b3f1-4db6ce2e9386</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1']/div[2]/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-fixed-1.button-continue.mt-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1d4a710c-aa97-42ca-a81a-20dd8e6acbaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-fixed-1 button-continue mt-3</value>
+      <webElementGuid>86ae4fa3-fdb6-41d1-a94a-920dd44a67d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    LANJUTKAN
+  </value>
+      <webElementGuid>1b503a9b-8107-4e50-9206-dc9338537881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/div[@class=&quot;c-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 div-text-center&quot;]/div[@class=&quot;c-fa-new-step3 header&quot;]/button[@class=&quot;button-fixed-1 button-continue mt-3&quot;]</value>
+      <webElementGuid>af62877b-cd53-4ddd-af49-47b401a66d2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>2eb8ba49-1289-469f-a53e-549d2007df26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PILIH'])[2]/following::button[1]</value>
+      <webElementGuid>cbdb23d8-e521-4546-acaf-caba576a023b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SULAWESI BARAT'])[1]/following::button[2]</value>
+      <webElementGuid>3ef4cbab-400a-4d24-9f45-d4b05cdf2d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Asuransi Jiwa Sequis Life berizin dan diawasi oleh Otoritas Jasa Keuangan'])[1]/preceding::button[1]</value>
+      <webElementGuid>ff8154db-4e48-4be0-a1bf-72e6b317441d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LANJUTKAN']/parent::*</value>
+      <webElementGuid>bc105e9e-ed17-446d-b2ff-1dc9fba692f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/button</value>
+      <webElementGuid>e7e6b8b3-efff-4b09-a61c-7acf0d84292a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+    LANJUTKAN
+  ' or . = '
+    LANJUTKAN
+  ')]</value>
+      <webElementGuid>edcd92f8-9f0d-4154-8fc7-88be4f33b7b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

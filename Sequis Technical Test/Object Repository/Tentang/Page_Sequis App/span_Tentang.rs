@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tentang</name>
+   <tag></tag>
+   <elementGuidId>176cc7a9-7e66-4573-9100-60735c060c83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='c-menu']/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mr-5.icon-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eeece316-7c95-4556-8a6c-0971c77333ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-5 icon-header</value>
+      <webElementGuid>5566bd1a-9c7a-4f6c-9c6c-1bcec706c70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                   Tentang
+                              </value>
+      <webElementGuid>5cca464b-15ba-49fd-8232-77360bde8426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c-menu&quot;)/div[@class=&quot;c-header__menu-center&quot;]/ul[@class=&quot;c-header__menu-group mb-0&quot;]/li[@class=&quot;c-header__menu-group-list&quot;]/a[1]/span[@class=&quot;mr-5 icon-header&quot;]</value>
+      <webElementGuid>d7e120c7-08f0-4f20-9ac2-4941d6c816ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c-menu']/div/ul/li/a/span</value>
+      <webElementGuid>27b5f7b1-2563-476d-a1cc-a6ab45655364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi kami'])[1]/preceding::span[2]</value>
+      <webElementGuid>fa96cb3b-10be-48ae-8509-8ed5ef26c019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sequis.co.id'])[1]/preceding::span[4]</value>
+      <webElementGuid>03c58a6f-54de-42ff-bb57-5d84044f0ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tentang']/parent::*</value>
+      <webElementGuid>f20d1591-b8fc-4dc3-95ab-9fbc83bf4e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>ed8f9c0c-a872-4aff-8af9-1ea2aa6ecda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                   Tentang
+                              ' or . = '
+                                   Tentang
+                              ')]</value>
+      <webElementGuid>096cfb40-1277-49f5-9e1a-95739c0e35d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

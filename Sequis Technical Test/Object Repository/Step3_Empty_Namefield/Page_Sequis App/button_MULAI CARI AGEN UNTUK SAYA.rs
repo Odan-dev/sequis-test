@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_MULAI CARI AGEN UNTUK SAYA</name>
+   <tag></tag>
+   <elementGuidId>7cf4454b-1d76-4f57-8e63-b5027f524b28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.base-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41bcdd63-0f3c-4fa7-8934-2c5ea590a277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d750fecb-2b8a-4bfd-acd2-3299bda875e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-button</value>
+      <webElementGuid>56d42458-3b3e-4f8f-b00b-229b13848733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              MULAI CARI AGEN UNTUK SAYA
+            </value>
+      <webElementGuid>0a5cd997-5fab-4e74-85f8-f913505761a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Application&quot;)/div[@class=&quot;p-fa-home&quot;]/div[@class=&quot;c-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;title-content&quot;]/button[@class=&quot;base-button&quot;]</value>
+      <webElementGuid>2d9cef3f-6da2-4b41-980d-35749130d407</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>b194aee7-aeed-4c9a-a8a7-c013a52919fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Application']/div/div[2]/div/div/div[3]/div/button</value>
+      <webElementGuid>48a0be67-4ce0-44c2-9c6e-b77414ab8fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sequis'])[1]/following::button[1]</value>
+      <webElementGuid>87eb172a-6493-46ff-8b2d-59a11fd1054a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Asuransi Jiwa Sequis Life berizin dan diawasi oleh Otoritas Jasa Keuangan'])[1]/preceding::button[1]</value>
+      <webElementGuid>cfdcf819-14aa-4e06-8ad3-a196a5d14e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MULAI CARI AGEN UNTUK SAYA']/parent::*</value>
+      <webElementGuid>75bf89ba-643a-466f-b07d-9705fab1f85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>acbd2f88-0265-40aa-b9ca-165c4e9fde1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+              MULAI CARI AGEN UNTUK SAYA
+            ' or . = '
+              MULAI CARI AGEN UNTUK SAYA
+            ')]</value>
+      <webElementGuid>65b312fd-eb28-4969-b529-64d74c4c7761</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sequis.co.id</name>
+   <tag></tag>
+   <elementGuidId>4278e125-52bc-4be5-9278-913a9c2b08e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='c-menu']/div/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5443af2a-0d4e-4cbb-bdf0-9af03bdcb142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-5 icon-header</value>
+      <webElementGuid>dbc71872-1bbe-4794-9b62-a8ef6e687f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                   Sequis.co.id
+                              </value>
+      <webElementGuid>1ce5603b-40cb-4363-91d1-9d38c41d1392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c-menu&quot;)/div[@class=&quot;c-header__menu-center&quot;]/ul[@class=&quot;c-header__menu-group mb-0&quot;]/li[@class=&quot;c-header__menu-group-list&quot;]/a[1]/span[@class=&quot;mr-5 icon-header&quot;]</value>
+      <webElementGuid>5e2d53f2-0eb3-404d-9dff-6cdab60489b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c-menu']/div/ul/li[3]/a/span</value>
+      <webElementGuid>7068104d-d640-4d9e-ba64-866a90f8aca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi kami'])[1]/following::span[2]</value>
+      <webElementGuid>0487e81b-b52b-41cd-b141-8d02c9e4d682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang'])[1]/following::span[4]</value>
+      <webElementGuid>f64e3601-39a2-4a4d-99d6-ca60b9b1fa36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::span[2]</value>
+      <webElementGuid>2462b1dd-03c6-4ff8-a601-fbfa46bd8e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang'])[2]/preceding::span[4]</value>
+      <webElementGuid>a705ce89-e1be-48d8-9a4a-df431b4ee8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sequis.co.id']/parent::*</value>
+      <webElementGuid>1ab849a8-9ac6-472a-a612-68ffb94c5949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>d4522def-ca6d-4b29-b6b2-6dc16322c15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                   Sequis.co.id
+                              ' or . = '
+                                   Sequis.co.id
+                              ')]</value>
+      <webElementGuid>dfc939d5-4274-482a-8d51-148c4ec5463c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

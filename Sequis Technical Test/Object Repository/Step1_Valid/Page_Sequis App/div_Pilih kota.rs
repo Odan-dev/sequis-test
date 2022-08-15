@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih kota</name>
+   <tag></tag>
+   <elementGuidId>314c5248-aa02-4acc-8917-89fc3085ccc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1']/div[2]/div[2]/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>412d6e8e-da10-4cbb-bee0-8a678c41fa61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>5e016bff-be36-4c82-86dc-57b38f91ce2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#modalCity</value>
+      <webElementGuid>85da44bc-6f54-4efa-b95d-6a4d7f2d9168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1825eb0e-966f-467c-a325-5dd541361521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Pilih kota
+           </value>
+      <webElementGuid>c34d2d7a-ffd4-46a3-9488-3de695305f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/div[@class=&quot;c-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 div-text-center&quot;]/div[@class=&quot;c-fa-new-step3 header&quot;]/div[@class=&quot;fa-new-step1-content mt-3&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>f8054c7c-e63b-40cd-8387-ab959bec12f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/div[2]/div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>785e88fe-77b0-48c3-a4c8-3ec6d5178c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACEH'])[1]/following::div[3]</value>
+      <webElementGuid>675bb027-3058-41cd-963e-b6947f20dea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan lokasi agar kami dapat merekomendasikan agen yang terdekat dengan posisi Anda.'])[1]/following::div[8]</value>
+      <webElementGuid>064b2a11-f587-4f5b-96e6-d8268d33e5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih kota'])[2]/preceding::div[4]</value>
+      <webElementGuid>e69082bc-8b4f-4245-8ba2-40df9c861526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>066c8df3-d606-4ea3-8a71-be6a38364e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            Pilih kota
+           ' or . = '
+            Pilih kota
+           ')]</value>
+      <webElementGuid>3aafdef3-9ca1-4333-a975-b4c8cc384fdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

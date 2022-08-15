@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PILIH</name>
+   <tag></tag>
+   <elementGuidId>bb1186d0-cebb-4970-a7af-316ba506c7ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-step2.button-box.no-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2']/div[2]/div[2]/div/div/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c6ee4d0-09a3-4042-bd4b-16092972fe61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-step2 button-box no-active</value>
+      <webElementGuid>bc31d0a6-1d14-48c0-a2c4-f1142cd10d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+            Pilih
+           </value>
+      <webElementGuid>3d8153ad-73dc-4522-8803-56d92cc29e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)/div[@class=&quot;c-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 div-text-center&quot;]/div[@class=&quot;c-fa-new-step2&quot;]/div[@class=&quot;row pt-3 row-box pb-5&quot;]/div[@class=&quot;col-sm-12 col-sm-12-step2&quot;]/div[@class=&quot;box-life&quot;]/button[@class=&quot;button-step2 button-box no-active&quot;]</value>
+      <webElementGuid>94dbe738-053a-4271-bc7f-ab004cc52f48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2']/div[2]/div[2]/div/div/div[2]/div/div/button</value>
+      <webElementGuid>69cbc6a8-2919-4a92-b2e5-f4a680898796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih'])[2]/preceding::button[1]</value>
+      <webElementGuid>ca61aa30-e5ce-43e9-9561-a5ac2481b367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih']/parent::*</value>
+      <webElementGuid>1e706b0b-4db3-4177-a2c8-fe18d999adbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/button</value>
+      <webElementGuid>c5b1ea43-755f-4ed5-9d82-e577ad82abaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' 
+            Pilih
+           ' or . = ' 
+            Pilih
+           ')]</value>
+      <webElementGuid>50fc3ebd-9509-46ef-aee9-217146b7b495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

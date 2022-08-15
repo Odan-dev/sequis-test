@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bapak                                  _934181</name>
+   <tag></tag>
+   <elementGuidId>b42dbd47-901b-4cfd-8fa7-f7eb42f70c0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exampleModal']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#exampleModal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9d64cde-2dd8-45dd-8ea5-0c0a035f4077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>exampleModal</value>
+      <webElementGuid>72ff1dcb-5db8-4572-9554-3580d63bf07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>171601c4-d663-42d7-8e47-0a9d60b5c3a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>23506f2f-c924-4847-ba44-41f4fcfa813d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>exampleModalLabel</value>
+      <webElementGuid>fffa3cde-2119-4472-a9ec-10cb2aa50712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal fade show</value>
+      <webElementGuid>ba925beb-c988-4996-aa17-82968b453089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d419df76-6a3d-4b44-886a-49e4640c1cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+                  Bapak
+                 
+                  Ibu
+                  
+            PILIH
+          </value>
+      <webElementGuid>d299588e-9e3e-4618-83c8-a0db9e4b3f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exampleModal&quot;)</value>
+      <webElementGuid>d98b9760-499e-4d7e-b8e8-620f7e11bfc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='exampleModal']</value>
+      <webElementGuid>ccd392dd-21d3-463b-8320-44b2545b6056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3']/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>967c7ffc-73ca-42d2-a2fb-f06ebb47b512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bapak'])[1]/following::div[1]</value>
+      <webElementGuid>d3613685-41bb-4be2-a4d7-eebb8f665847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>d7b8f94e-df50-414b-b144-0e9b0e6080ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'exampleModal' and (text() = ' 
+                  Bapak
+                 
+                  Ibu
+                  
+            PILIH
+          ' or . = ' 
+                  Bapak
+                 
+                  Ibu
+                  
+            PILIH
+          ')]</value>
+      <webElementGuid>523de776-4247-4785-b134-c9c393148f0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

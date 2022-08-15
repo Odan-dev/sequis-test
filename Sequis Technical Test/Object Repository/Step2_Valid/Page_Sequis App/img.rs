@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>d5992a73-adc0-430e-b931-a1ee64b2db3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2']/div[2]/div[2]/div/div/div[2]/div[2]/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6c869fc1-d5f2-4854-a571-58e09af5a426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/packs/media/svg/centang-ae2994ab.svg</value>
+      <webElementGuid>cacd828b-9f8c-4d29-893d-d05bfeddaf14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)/div[@class=&quot;c-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 div-text-center&quot;]/div[@class=&quot;c-fa-new-step2&quot;]/div[@class=&quot;row pt-3 row-box pb-5&quot;]/div[@class=&quot;col-sm-12 col-sm-12-step2&quot;]/div[@class=&quot;box-life&quot;]/button[@class=&quot;button-step2 button-box button-active&quot;]/img[1]</value>
+      <webElementGuid>c675ce88-9fcd-49db-8f5a-55ed40d8706f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2']/div[2]/div[2]/div/div/div[2]/div[2]/div/button/img</value>
+      <webElementGuid>809a37c9-0c9e-4c61-b5e4-926cec32ff5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/img</value>
+      <webElementGuid>73d22521-9e5c-45c5-bd3d-9f847a2b0e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/packs/media/svg/centang-ae2994ab.svg']</value>
+      <webElementGuid>7714d9ee-a308-4e61-940f-a0ea389f3760</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
